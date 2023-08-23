@@ -14,3 +14,15 @@ public class SinifClass extends  OkulClass{
         SinifClass obj=new SinifClass("3127658798");
     }
 }
+/*
+    Okul Constructor
+    Sınıf Constructor
+    30
+    10
+    1?
+    15
+    40
+    ?
+
+
+ */
